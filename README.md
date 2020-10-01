@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Animated-searchbar
+
+### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bhoinishant/Animated-searchbar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
